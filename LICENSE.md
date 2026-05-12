@@ -1,4 +1,4 @@
-# 
+# Enhance CrossOver for macOS with ultimate CrossOver for macOS Automation | hardware-acceleration + guest-OS-support, the #1 automation. Includes hardware-acceleration and
 
 
 
